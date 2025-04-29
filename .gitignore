@@ -1,0 +1,7 @@
+*.pyc
+__pycache__
+env/
+.DS_Store
+*.log
+*.tmp
+published_posts.json
